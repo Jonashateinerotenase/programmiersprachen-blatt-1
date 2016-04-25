@@ -1,0 +1,6 @@
+C:/Users/Jonas/Documents/Studium/Semester 2/Programmiersprachen/programmiersprachen-blatt-1/build/CMakeFiles/edit_cache.dir
+C:/Users/Jonas/Documents/Studium/Semester 2/Programmiersprachen/programmiersprachen-blatt-1/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Jonas/Documents/Studium/Semester 2/Programmiersprachen/programmiersprachen-blatt-1/build/source/CMakeFiles/helloworld.dir
+C:/Users/Jonas/Documents/Studium/Semester 2/Programmiersprachen/programmiersprachen-blatt-1/build/source/CMakeFiles/tests.dir
+C:/Users/Jonas/Documents/Studium/Semester 2/Programmiersprachen/programmiersprachen-blatt-1/build/source/CMakeFiles/edit_cache.dir
+C:/Users/Jonas/Documents/Studium/Semester 2/Programmiersprachen/programmiersprachen-blatt-1/build/source/CMakeFiles/rebuild_cache.dir
